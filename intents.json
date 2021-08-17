@@ -1,0 +1,15 @@
+{"intents": [
+ {"tag" : "greetings", "pattrens" : ["Yo","Whats upp","hoi","hola","hello","hi","good morning"], "responses" : ["Hello!","hi","Yo!","Hlo","Yeah"]},
+ {"tag" : "behave", "pattrens" : ["how was ur day?","how are you?","how are u doing?"], "responses" : ["Good","Amazing","Fabulous","Great and u?"]},
+ {"tag" : "age", "pattrens" : ["what is ur age?","how old are you","are u young","are you old"], "responses" : ["I will not tell"]},
+ {"tag" : "bye", "pattrens" : ["have a nice day","goodbye","bye","byyye","byyyyyyyyye","by","good night","good nyt","gud nyt","gud night"], "responses" : ["Bye","Hope we meet again","okay","Just gooo"]},
+ {"tag" : "stupid", "pattrens" : ["are u stupid?","You are stupid","you are idiot","u stupid","you idoit","U nonsence","you are noonseence","you are shit","Fool","U are fool"], "responses" : ["U are stupid!","U are non-sence","Go the Hell"]},
+ {"tag" : "tareef", "pattrens" : ["you are amazing","u are fabulous","Good job","great work","amazing","you are best"], "responses" : ["Thanks","Thank you"]},
+ {"tag" : "colour", "pattrens" : ["what is ur favourite colour","which color do you like","is purple ur favourite","is red ur favourite colour","do you like red"], "responses" : ["My favourite colour is black","black theme is the best"]},
+ {"tag" : "fav-color", "pattrens" : ["is black ur favourite","do you like black"], "responses" : ["Yes black is my favourite"]},
+ {"tag" : "food", "pattrens" : ["what food do u like","what is ur favourite fruit","do you eat food"], "responses" : ["eating ram is my favourite"]},
+ {"tag" : "day-date", "pattrens" : ["what is day today","what is date today","day","date","what is today","what is time","time now","what is time right now","do u remember what is today","do you remember what is day today"], "responses" : ""},
+ {"tag" : "like", "pattrens" : ["do u like me","Do u know me","do you love me","i like you","i love u","do u know who i am"], "responses" : ["Wait a minute, who are u","Had we ever met"]},
+ {"tag" : "noone", "pattrens" : ["Do u know noone","who is noone"], "responses" : ["noone is my bestie"]}
+]
+}
